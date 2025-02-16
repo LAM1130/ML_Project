@@ -32,8 +32,11 @@ This repository contains lab enhancements and a final project focused on various
 2. Run the Jupyter notebooks or Python scripts provided.
 3. Explore the results and tweak parameters to improve models.
 
-## Contribution
-Feel free to contribute by adding improvements, fixing issues, or suggesting new enhancements.
+## Contributors
+Lam Zi Foong 
+Chai Di Sheng 
+Teoh Kai Loon 
+Wong Kah Chun 
 
 ## License
 This project is for educational purposes and is open for learning and modifications.
